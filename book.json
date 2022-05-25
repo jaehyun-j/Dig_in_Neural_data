@@ -10,10 +10,6 @@
 	"gitbook": "3.2.3",
 	"root": "./",
 	
-	"structure": {
-		"readme" : "Introduction.md"
-	}
-
 	"plugins": ["splitter"],
 	"pluginsConfig": {
 	}
