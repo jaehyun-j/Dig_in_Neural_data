@@ -1,3 +1,3 @@
 # Contents
 
-*[EEG](EEG/README.md)
+* [EEG](EEG/README.md)
