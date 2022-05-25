@@ -1,0 +1,19 @@
+{
+	"title": "Dig in Neural data",
+	"description": null,
+	"isbn": null,
+
+	"extension": null,
+
+	"author": "Jaehyun Jeong",
+	"generator": "site",
+	"gitbook": "3.2.3",
+	"root": "./",
+
+	"plugins": ["myplugin"],
+	"pluginsConfig": {
+		"myPlugin": {
+			"message": "Hello World"
+		}
+	}
+}
