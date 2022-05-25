@@ -9,11 +9,12 @@
 	"generator": "site",
 	"gitbook": "3.2.3",
 	"root": "./",
+	
+	"structure": {
+		"readme" : "Introduction.md"
+	}
 
-	"plugins": ["myplugin"],
+	"plugins": ["splitter"],
 	"pluginsConfig": {
-		"myPlugin": {
-			"message": "Hello World"
-		}
 	}
 }
